@@ -1,1 +1,7 @@
-# arduino-book
+Arduino-book
+
+by:
+
+--- Omar Castillo
+
+--- Alvaro Rivera
